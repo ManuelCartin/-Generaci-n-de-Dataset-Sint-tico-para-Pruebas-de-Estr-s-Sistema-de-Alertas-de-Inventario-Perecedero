@@ -1,0 +1,1 @@
+# -Generaci-n-de-Dataset-Sint-tico-para-Pruebas-de-Estr-s-Sistema-de-Alertas-de-Inventario-Perecedero
